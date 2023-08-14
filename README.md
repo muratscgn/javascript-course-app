@@ -1,9 +1,14 @@
 # Course App with JavaScript
 
-To improve myself in JavaScript, I do projects from simple to difficult level every day.
+JavaScript'te kendimi geliştirmek için her gün basitten zora doğru projeler yapıyorum.
 
-I am sure that I will improve myself in this process. In this project, I practiced course app, 
-and I will continue to improve myself by doing other projects and challenges every day.
+Bu süreçte kendimi geliştirmeye devam ediyorum. Bu projede kurs uygulaması yaptım. Her gün başka projeler ve challengelar yaparak kendimi geliştirmeye devam edeceğim.
+
+--------------------------------------------------------------------------------
+
+I do projects from simple to difficult every day to improve myself in JavaScript.
+
+In this process, I continue to improve myself. In this project, I made a course application. I will continue to improve myself by doing other projects and challenges every day.
 
 CANLI DEMO: https://js-course-app.vercel.app/
 
